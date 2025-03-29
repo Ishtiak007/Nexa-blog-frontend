@@ -72,7 +72,7 @@ const Footer = () => {
       <aside className="mt-8 text-center">
         <p className="text-gray-400">
           Copyright &copy; {currentYear.getFullYear()} - All right reserved by
-          PH Next Level Team
+          PH Next Level Team & Ishtiak Ahmed
         </p>
       </aside>
     </footer>
