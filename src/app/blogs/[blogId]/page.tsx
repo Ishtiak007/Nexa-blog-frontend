@@ -10,6 +10,13 @@ export const generateStaticParams = async () => {
   }));
 };
 
+// or Dynamic metadata
+export async function generateMetadata({ params }) {
+  return {
+    title: "...",
+  };
+}
+
 const BlogDetailsPage = async ({
   params,
 }: {
