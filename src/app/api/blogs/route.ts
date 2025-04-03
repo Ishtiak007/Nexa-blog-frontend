@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 
-const blogs = [
+export const blogs = [
   {
     id: "1",
     title: "The Rise of Quantum Computing",
