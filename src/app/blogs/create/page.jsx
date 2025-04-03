@@ -1,9 +1,10 @@
+import BlogForm from "@/components/ui/BlogForm";
 
 
 const CreateBloge = () => {
     return (
         <div>
-            <h1>Createa a blog</h1>
+            <BlogForm />
         </div>
     );
 };
