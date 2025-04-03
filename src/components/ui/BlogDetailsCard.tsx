@@ -6,7 +6,6 @@ import { FaCalendar } from "react-icons/fa";
 const BlogDetailsCard = ({ blog }: { blog: Blog }) => {
   return (
     <div className="w-2/3 bg-white shadow-lg rounded-lg mx-auto p-6">
-      <h1>Nexa blog stater pack</h1>
       <p className="flex items-center justify-center mx-auto text-teal-500 bg-teal-100 w-fit px-3 py-1 rounded-full">
         <FaCalendar className="mr-2" />
         {blog.publish_date}
