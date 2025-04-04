@@ -25,8 +25,9 @@ const BlogsPage = () => {
       </h1>
       <p className="text-center text-gray-400 w-2/5 mx-auto">
         <i>
-          Explore the captivating realm of quantum computing, where
-          groundbreaking computational power is unleashed like never before.
+          Dive into the fascinating world of quantum computing, where
+          revolutionary computational capabilities are brought to life in ways
+          never seen before.
         </i>
       </p>
       <div className="grid grid-cols-3 gap-6 my-5">
