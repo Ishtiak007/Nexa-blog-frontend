@@ -18,7 +18,7 @@ const ErrorPage = ({
         onClick={() => reset()}
         className="mt-5 px-4 py-3 bg-teal-600 text-white rounded-lg hover:bg-teal-500"
       >
-        Try Again
+        Please Try Again
       </button>
     </div>
   );
