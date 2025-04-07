@@ -9,7 +9,7 @@ const ErrorPage = ({
   return (
     <div className="my-5 text-center">
       <p className="text-4xl bg-red-500 text-white p-5 w-[50%] mx-auto rounded-xl">
-        Something went wrong!
+        Something went wrong here!
       </p>
       <p className="text-4xl bg-red-500 text-white p-5 w-[50%] mx-auto rounded-xl mt-2">
         {error.message}
